@@ -1,0 +1,16 @@
+
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: spree_demo_development
+  pool: 5
+  username: rails
+  password: tem22pe
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: spree_demo_test
+  pool: 5
+  username: rails
+  password: tem22pe
